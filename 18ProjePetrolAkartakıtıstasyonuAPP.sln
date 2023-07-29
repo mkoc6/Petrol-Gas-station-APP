@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.ProjePetrolAkartakıtıstasyonuAPP", "17.ProjePetrolAkartakıtıstasyonuAPP\18.ProjePetrolAkartakıtıstasyonuAPP.csproj", "{CCA95F37-1566-432E-B4D6-8ACFA898438D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCA95F37-1566-432E-B4D6-8ACFA898438D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA95F37-1566-432E-B4D6-8ACFA898438D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA95F37-1566-432E-B4D6-8ACFA898438D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA95F37-1566-432E-B4D6-8ACFA898438D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3E7594F-E859-4047-9EAD-D0728CAE7DAF}
+	EndGlobalSection
+EndGlobal
